@@ -10,12 +10,6 @@ description: "# The hackforla.org website is our organization's way of
 image: /assets/images/projects/website.png
 alt: wireframe sample from new website
 leadership:
-  - name: Kegan Maher
-    role: Technical Architect
-    links:
-      slack: https://hackforla.slack.com/team/U0BMTH6A1
-      github: https://github.com/thekaveman
-    picture: https://avatars.githubusercontent.com/thekaveman
   - name: Bonnie Wolfe
     role: Product Owner & Tech Lead
     links:
@@ -28,6 +22,12 @@ leadership:
       slack: https://hackforla.slack.com/team/ULYUA6MNF
       github: https://github.com/harishlingam
     picture: https://avatars.githubusercontent.com/harishlingam
+  - name: Kegan Maher
+    role: Technical Architect
+    links:
+      slack: https://hackforla.slack.com/team/U0BMTH6A1
+      github: https://github.com/thekaveman
+    picture: https://avatars.githubusercontent.com/thekaveman
   - name: Kian Badie
     role: Frontend Lead
     links:
@@ -56,5 +56,6 @@ looking:
   - anyone wanting to learn how to do Git commits in a collaborative work
     environment
 location: Santa Monica, Downtown and Remote
+partner: hehehehehe
 status: Active
 ---
